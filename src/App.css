@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+input {
+  text-align: center;
+}
+
+li {
+  display: inline;
+  padding: 0 5px 0 5px;
+}
+
+li.active a {
+  font-weight: bold;
+  color: red;
+}
